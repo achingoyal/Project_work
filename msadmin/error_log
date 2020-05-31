@@ -1,0 +1,15 @@
+[10-Aug-2016 18:10:04 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/varshitajain23/public_html/mssolvex.com/e1/msadmin/index.php on line 17
+[10-Aug-2016 18:10:04 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/varshitajain23/public_html/mssolvex.com/e1/msadmin/index.php on line 18
+[10-Aug-2016 18:10:04 UTC] PHP Notice:  Use of undefined constant Name - assumed 'Name' in /home/varshitajain23/public_html/mssolvex.com/e1/msadmin/index.php on line 19
+[10-Aug-2016 18:10:04 UTC] PHP Notice:  Undefined index: Name in /home/varshitajain23/public_html/mssolvex.com/e1/msadmin/index.php on line 19
+[10-Aug-2016 18:11:50 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/varshitajain23/public_html/mssolvex.com/e1/msadmin/index.php on line 17
+[10-Aug-2016 18:11:50 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/varshitajain23/public_html/mssolvex.com/e1/msadmin/index.php on line 18
+[10-Aug-2016 18:11:50 UTC] PHP Notice:  Use of undefined constant Name - assumed 'Name' in /home/varshitajain23/public_html/mssolvex.com/e1/msadmin/index.php on line 19
+[10-Aug-2016 18:11:50 UTC] PHP Notice:  Undefined index: Name in /home/varshitajain23/public_html/mssolvex.com/e1/msadmin/index.php on line 19
+[11-Jul-2018 10:52:33 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/varshitajain23/public_html/mssolvex.com/msadmin/index.php on line 17
+[11-Jul-2018 10:52:33 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/varshitajain23/public_html/mssolvex.com/msadmin/index.php on line 18
+[11-Jul-2018 10:52:33 UTC] PHP Notice:  Use of undefined constant Name - assumed 'Name' in /home/varshitajain23/public_html/mssolvex.com/msadmin/index.php on line 19
+[11-Jul-2018 10:52:33 UTC] PHP Notice:  Undefined index: Name in /home/varshitajain23/public_html/mssolvex.com/msadmin/index.php on line 19
+[11-Jul-2018 10:52:36 UTC] PHP Notice:  Undefined index: q1 in /home/varshitajain23/public_html/mssolvex.com/msadmin/enter_q.php on line 42
+[11-Jul-2018 10:52:36 UTC] PHP Notice:  Undefined index: q2 in /home/varshitajain23/public_html/mssolvex.com/msadmin/enter_q.php on line 43
+[11-Jul-2018 10:52:36 UTC] PHP Notice:  Undefined index: q3 in /home/varshitajain23/public_html/mssolvex.com/msadmin/enter_q.php on line 44
